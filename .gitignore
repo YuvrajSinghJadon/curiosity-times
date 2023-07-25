@@ -1,0 +1,37 @@
+# Vite build output
+/dist
+
+# Node.js dependencies
+/node_modules
+
+# Vite development cache
+/.vite
+
+# IDE-specific files and directories
+/.vscode
+/.idea
+
+# Log files
+/*.log
+
+# Environment variables (if not using .env files)
+.env.local
+.env.*.local
+.env
+# Build artifacts and temp files
+*.log
+*.log*
+*.pot
+*.potx
+*.~lock.*
+*.tmp
+*.swp
+*.swo
+*.bak
+*.backup
+
+# Compiled output (if not included in /dist)
+/build
+# Miscellaneous
+.DS_Store
+Thumbs.db
