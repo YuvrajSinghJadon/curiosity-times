@@ -1,5 +1,8 @@
 # Curious Times - News Website
-[Visit the Website](https://www.example.com)
+[Visit the Website]([https://www.example.com](https://trivia-site.vercel.app/))
+
+NOT MY FAULT
+(UNFORTUNATELY THE NEWSAPI IS NOT WORKING PROPERLY ON DEPLOYING THE PROJECTC....)
 
 ![Screenshot](public/ss.jpeg)
 
@@ -48,4 +51,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or feedback, feel free to contact us at [email@example.com](mailto:email@example.com).
+For any inquiries or feedback, feel free to contact us at [email@example.com](yuvrajjadon10@gmail.com).
