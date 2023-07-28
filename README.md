@@ -2,7 +2,7 @@
 [Visit the Website]([https://www.example.com](https://trivia-site.vercel.app/))
 
 NOT MY FAULT
-(UNFORTUNATELY THE NEWSAPI IS NOT WORKING PROPERLY ON DEPLOYING THE PROJECTC....)
+(UNFORTUNATELY THE NEWSAPI IS NOT WORKING PROPERLY ON DEPLOYING THE PROJECTS....)
 
 ![Screenshot](public/ss.jpeg)
 
