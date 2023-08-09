@@ -2,10 +2,12 @@
 [Visit the Website](https://curiosity-times.vercel.app/)
 
 NOT MY FAULT
-(UNFORTUNATELY THE NEWSAPI IS NOT WORKING PROPERLY ON DEPLOYING THE PROJECTS....)
+(UNFORTUNATELY THE    **_NEWSAPI_**   IS NOT WORKING PROPERLY ON DEPLOYING THE PROJECTS....)
 
 ![screenshot](public/ss.jpeg)
 
+
+## watch the website working on my machine.
 https://github.com/YuvrajSinghJadon/curiosity-times/assets/100905828/b1fc44c0-1ae3-48bd-8023-594e8632de2a
 
 
