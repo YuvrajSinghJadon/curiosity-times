@@ -4,7 +4,9 @@
 NOT MY FAULT
 (UNFORTUNATELY THE NEWSAPI IS NOT WORKING PROPERLY ON DEPLOYING THE PROJECTS....)
 
-![Screenshot](public/ss.jpeg)
+
+https://github.com/YuvrajSinghJadon/curiosity-times/assets/100905828/b1fc44c0-1ae3-48bd-8023-594e8632de2a
+
 
 ## About
 
