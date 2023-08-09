@@ -1,5 +1,5 @@
 # Curious Times - News Website
-[Visit the Website]([https://www.example.com](https://trivia-site.vercel.app/))
+[Visit the Website](https://trivia-site.vercel.app/)
 
 NOT MY FAULT
 (UNFORTUNATELY THE NEWSAPI IS NOT WORKING PROPERLY ON DEPLOYING THE PROJECTS....)
